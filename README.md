@@ -1,3 +1,5 @@
+<img src="Icon.png" alt="icon" width="100"/>
+
 # Pornogifs
 Discord Bot that provides you with random porn gifs on requested keywords.
 
